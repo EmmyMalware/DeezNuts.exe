@@ -1,0 +1,12 @@
+C:\Users\April\source\repos\RegCracks\RegCracks\bin\Debug\DeezNuts.exe
+C:\Users\April\source\repos\RegCracks\RegCracks\bin\Debug\DeezNuts.pdb
+C:\Users\April\source\repos\RegCracks\RegCracks\obj\Debug\RegCracks.csproj.AssemblyReference.cache
+C:\Users\April\source\repos\RegCracks\RegCracks\obj\Debug\RegCracks.Form1.resources
+C:\Users\April\source\repos\RegCracks\RegCracks\obj\Debug\RegCracks.Properties.Resources.resources
+C:\Users\April\source\repos\RegCracks\RegCracks\obj\Debug\RegCracks.csproj.GenerateResource.cache
+C:\Users\April\source\repos\RegCracks\RegCracks\obj\Debug\RegCracks.csproj.CoreCompileInputs.cache
+C:\Users\April\source\repos\RegCracks\RegCracks\obj\Debug\DeezNuts.exe
+C:\Users\April\source\repos\RegCracks\RegCracks\obj\Debug\DeezNuts.pdb
+C:\Users\April\source\repos\RegCracks\RegCracks\obj\Debug\RegCracks.Form2.resources
+C:\Users\April\source\repos\RegCracks\RegCracks\obj\Debug\RegCracks.Form3.resources
+C:\Users\April\source\repos\RegCracks\RegCracks\obj\Debug\RegCracks.Form4.resources
